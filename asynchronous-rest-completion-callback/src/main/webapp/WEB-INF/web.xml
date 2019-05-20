@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee 
 		 http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
 	version="3.1">
-	<display-name>Asynchronous REST- Connection Callback</display-name>
+	<display-name>Asynchronous REST- Completion Callback</display-name>
 	
 	<servlet>
 		<servlet-name>REST</servlet-name>
