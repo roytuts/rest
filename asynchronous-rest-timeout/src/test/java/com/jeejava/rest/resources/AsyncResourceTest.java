@@ -1,4 +1,4 @@
-package com.jeejava.rest.resources;
+package com.roytuts.rest.resources;
 
 import java.net.URI;
 import java.util.concurrent.ExecutionException;

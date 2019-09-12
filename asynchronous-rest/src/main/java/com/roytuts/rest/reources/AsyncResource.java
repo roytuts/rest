@@ -1,4 +1,4 @@
-package com.jeejava.rest.reources;
+package com.roytuts.rest.reources;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

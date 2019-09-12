@@ -1,1 +1,1 @@
-You can read tutorial https://www.jeejava.com/asynchronous-rest-service-using-jersey-connection-callback/
+You can read tutorial https://www.roytuts.com/asynchronous-rest-service-using-jersey-connection-callback/
