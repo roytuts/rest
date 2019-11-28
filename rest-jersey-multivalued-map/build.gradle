@@ -1,0 +1,25 @@
+plugins {
+    id 'java-library'
+}
+
+sourceCompatibility = 12
+targetCompatibility = 12
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'javax.ws.rs:javax.ws.rs-api:2.1.1'
+    
+    implementation 'javax.servlet:javax.servlet-api:4.0.1'
+    
+    implementation 'javax.xml.bind:jaxb-api:2.4.0-b180830.0359'
+    
+    implementation 'org.glassfish.jersey.inject:jersey-hk2:2.29.1'
+    implementation 'org.glassfish.grizzly:grizzly-http-server:2.4.4'
+    implementation 'org.glassfish.jersey.containers:jersey-container-servlet:2.29.1'
+    implementation 'org.glassfish.jersey.containers:jersey-container-grizzly2-http:2.29.1'
+    
+    testImplementation 'junit:junit:4.12'
+}
