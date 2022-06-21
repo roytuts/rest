@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/asynchronous-rest-service-using-jersey-completion-callback/
+Please follow the tutorial https://roytuts.com/asynchronous-rest-service-using-jersey-completion-callback/
