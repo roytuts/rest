@@ -72,7 +72,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>rest-service-authentication</finalName>
+		<finalName>asynchronous-rest-completion-callback</finalName>
 		<plugins>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
