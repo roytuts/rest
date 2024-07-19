@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/angular-php-file-upload-example
+Please follow the tutorial https://roytuts.com/angular-php-file-upload-example
